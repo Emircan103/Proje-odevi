@@ -9,3 +9,6 @@
 3,2,4,3,2
 105,Mario,Gomez,Germany,Munich,Football player
 4,1,3,2,1
+
+
+ALDIN MI BORUYU
