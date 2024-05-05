@@ -99,6 +99,7 @@ public class Main {
         ReadFile();
         AddCustomerData();
         System.out.println("abc");
+        System.out.println("abc2");
         
     }
 }
