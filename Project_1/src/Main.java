@@ -98,6 +98,9 @@ public class Main {
     public static void main(String[] args){
         ReadFile();
         AddCustomerData();
+        System.out.println("abc");
+        System.out.println("abc2");
+        System.out.println("abc31");
         
     }
 }
