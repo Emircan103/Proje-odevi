@@ -40,7 +40,7 @@ public class Main {
         String product_1,product_2,product_3,product_4,product_5;
 
         String[] row_1;
-        int customer_code;
+        int customer_codeE;
         String name,surname,country,city,occupation;
 
         String[] row_2;
